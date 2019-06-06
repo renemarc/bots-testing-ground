@@ -14,7 +14,8 @@
       "contributions": [
         "code",
         "doc",
-        "security"
+        "security",
+        "tool"
       ]
     }
   ],
