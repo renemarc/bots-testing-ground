@@ -2,7 +2,7 @@
   <a name="top">🕚</a><br/>Doomsday Clock sensor<br/> <sup><sub>🏡 a <a href="https://www.home-assistant.io/">Home Assistant</a> custom component ...for your fallout shelter? 😱</sub></sup>
 </h1>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg)](#contributors)
 
 ## Contributors
 
