@@ -15,7 +15,8 @@
         "code",
         "doc",
         "security",
-        "tool"
+        "tool",
+        "plugin"
       ]
     }
   ],
