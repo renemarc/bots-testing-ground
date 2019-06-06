@@ -6,6 +6,15 @@
   "commit": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?logo=angellist)](#contributors-)",
   "contributors": [
+    {
+      "login": "renemarc",
+      "name": "René-Marc Simard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13276793?v=4",
+      "profile": "https://renemarc.com/",
+      "contributions": [
+        "financial"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "bots-testing-ground",
