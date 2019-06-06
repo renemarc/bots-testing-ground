@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "renemarc",
+      "name": "René-Marc Simard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13276793?v=4",
+      "profile": "https://renemarc.com/",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "bots-testing-ground",
+  "projectOwner": "renemarc",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
