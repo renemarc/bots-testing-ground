@@ -18,6 +18,15 @@
         "tool",
         "plugin"
       ]
+    },
+    {
+      "login": "github",
+      "name": "Github",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9919?v=4",
+      "profile": "https://github.com/github",
+      "contributions": [
+        "infra"
+      ]
     }
   ],
   "contributorsPerLine": 7,
