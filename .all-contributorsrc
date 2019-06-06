@@ -18,7 +18,8 @@
         "test",
         "maintenance",
         "blog",
-        "content"
+        "content",
+        "security"
       ]
     }
   ],
